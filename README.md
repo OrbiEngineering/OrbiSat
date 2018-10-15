@@ -3,5 +3,9 @@ Código Fonte da missão OrbiSat, incluindo o código embarcado e o código da b
 
 Link Para Biblitecas Utilizadas:
 Dht.h - https://github.com/adafruit/DHT-sensor-library/blob/master/DHT.h
+
+
 Adafruit_Sensor.h - https://github.com/adafruit/Adafruit_Sensor/blob/master/Adafruit_Sensor.h
+
+
 VirtualWire.h - https://github.com/m0/Updated-Arduino-VirtualWire-Library/blob/master/VirtualWire.h
